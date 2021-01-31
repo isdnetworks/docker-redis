@@ -8,7 +8,7 @@
 
 # Supported tags and respective `Dockerfile` links
 
--	[`4.0-ko`](https://github.com/isdnetworks/docker-redis/blob/master/Dockerfile)
+-	[`5-ko`](https://github.com/isdnetworks/docker-redis/blob/master/Dockerfile)
 
 # Quick reference (cont.)
 
